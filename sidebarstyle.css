@@ -1,0 +1,18 @@
+body {
+	background-color: beige;
+	display: grid;
+    grid-template-columns: minmax(150px, 25%) 1fr;
+    padding: 0;
+    margin: ;
+}
+
+.sidebar {
+  height: 100vh;
+  background-color: lightpink;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.content {
+  padding: 2rem;
+}
