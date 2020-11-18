@@ -11,9 +11,15 @@ body {
 	background-color: lightcoral;
 	border-radius: 25px;
 	margin: 40vh;
+	text-decoration: none;
 }
 
-.pancake {
+ul {
+	text-decoration: none;
+	color: black;
+}
+
+.pancake .sidebar {
 	text-decoration: none;
 	color: black;
 
