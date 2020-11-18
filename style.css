@@ -1,0 +1,20 @@
+body {
+	background-color: beige;
+	display: grid;
+	place-items: center;
+}
+ h1 {
+ 	margin: 10px;
+ }
+.menu {
+	color: black;
+	background-color: lightcoral;
+	border-radius: 25px;
+	margin: 40vh;
+}
+
+.pancake {
+	text-decoration: none;
+	color: black;
+
+}
